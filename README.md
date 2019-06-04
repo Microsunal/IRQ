@@ -1,4 +1,4 @@
 # IRQ
 Código ejemplo de interrupción por IRQ.
 
-Se adjunta el archivo project.prm para que el estudiante revise la configuración del vector de interrupción.
+Revisar el archivo "\Project_Settings\Linker_Files\projet.prm" para observar la configuración del vector de interrupción.
